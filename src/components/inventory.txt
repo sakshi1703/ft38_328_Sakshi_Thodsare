@@ -1,0 +1,22 @@
+
+there will be two kinds of access 
+-admin or inventory manager
+-employees of company(read-only)
+
+   inventory
+   -part number
+   -part name
+   -part image
+
+
+   inventory can be 
+   -added 
+   -updated
+   -deleted
+   by inventory manager
+
+
+   access rights
+   login signup
+
+   
